@@ -24,13 +24,13 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Neon CLI](https://neon.tech/docs/reference/neon-cli)
 
 ## Tutorials
-(Add links to tutorials here)
+Add links to tutorials here
 
 ## Tools & Integrations
-(Add compatible tools and integrations here)
+Add compatible tools and integrations here
 
 ## Sample Projects
-(Add sample projects demonstrating Neon DB usage here)
+Add sample projects demonstrating Neon DB usage here
 
 ## Community
 - [Neon DB Discord](https://neon.tech/discord)
