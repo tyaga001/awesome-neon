@@ -37,6 +37,20 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Upload to S3 in Next.js and Save References in Postgres](https://neon.tech/guides/how-to-upload-to-s3-in-next-js-and-save-references-in-postgres)
 - [Query Postgres in Next.js Server Actions](https://neon.tech/guides/query-postgres-in-next-js-server-actions)
 
+## Featured Blog Posts
+
+- [The problem with Postgres replicas](https://neon.tech/blog/the-problem-with-postgres-replicas)
+- [Edit records directly from the Neon console: meet the new Tables page](https://neon.tech/blog/edit-records-directly-from-the-neon-console)
+- [Database recovery strategies to help you sleep at night](https://neon.tech/blog/database-recovery-strategies-to-help-you-sleep-at-night)
+- [How 222 uses Neon to handle their frequent spikes in demand](https://neon.tech/blog/how-222-uses-neon-to-handle-their-frequent-spikes-in-demand)
+- [A database for every preview environment using Neon, GitHub Actions, and Vercel](https://neon.tech/blog/a-database-for-every-preview-environment-using-neon-github-actions-and-vercel)
+- [How to create previews with anonymized production-like data in seconds](https://neon.tech/blog/how-to-create-previews-with-anonymized-production-like-data-in-seconds)
+- [Build a Dynamic E-Commerce Store UI with Astro, Neon Postgres, and AWS Amplify](https://neon.tech/blog/build-a-dynamic-e-commerce-store-ui-with-astro-neon-postgres-and-aws-amplify)
+- [Remember to use primary keys vs unique constraints in Postgres](https://neon.tech/blog/remember-to-use-primary-keys-vs-unique-constraints-in-postgres)
+- [Database branching workflows: A guide for developers](https://neon.tech/blog/database-branching-workflows-a-guide-for-developers)
+- [What you get when you think of Postgres storage as a transaction journal](https://neon.tech/blog/what-you-get-when-you-think-of-postgres-storage-as-a-transaction-journal)
+
+
 ## Tutorials
 Add links to tutorials here
 
