@@ -9,6 +9,8 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Contents
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
+- [Community Guides](#community-guides)
+- [Blog Posts](#blog-posts)
 - [Tutorials](#tutorials)
 - [Tools & Integrations](#tools--integrations)
 - [Sample Projects](#sample-projects)
@@ -37,7 +39,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Upload to S3 in Next.js and Save References in Postgres](https://neon.tech/guides/how-to-upload-to-s3-in-next-js-and-save-references-in-postgres)
 - [Query Postgres in Next.js Server Actions](https://neon.tech/guides/query-postgres-in-next-js-server-actions)
 
-## Featured Blog Posts
+## Blog Posts
 
 - [The problem with Postgres replicas](https://neon.tech/blog/the-problem-with-postgres-replicas)
 - [Edit records directly from the Neon console: meet the new Tables page](https://neon.tech/blog/edit-records-directly-from-the-neon-console)
