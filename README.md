@@ -2,6 +2,16 @@
 
 [Neon](https://neon.tech) is an awesome database you love. It's a serverless platform designed to help you build reliable and scalable applications faster.
 
+# 3 Things to Remember About Neon:
+
+> 🐘 **Postgres**: Neon is built on the foundation of Postgres. It supports the same extensions, drivers, and SQL syntax as Postgres, ensuring familiarity and ease of use.
+>
+> ☁️ **Serverless**: Neon operates on a serverless model. Your database is represented as a simple URL, and Neon automatically scales up and down based on workload demands. Say goodbye to overprovisioning!
+>
+> 🌱 **Branching**: Just like version control for code, Neon allows you to create instant, isolated copies of your data. This feature is invaluable for development, testing, and maintaining separate environments.
+
+---
+
 This list tries to cover what is awesome about the product and its community! 👁⚡️👁
 
 To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
