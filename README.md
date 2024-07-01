@@ -34,6 +34,9 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Getting Started
 - [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up)
 - [Neon CLI](https://neon.tech/docs/reference/neon-cli)
+- [Neon API](https://api-docs.neon.tech/reference/getting-started-with-neon-api)
+- [Neon Serverless Driver](https://neon.tech/docs/serverless/serverless-driver)
+- [Neon Data Import Guides](https://neon.tech/docs/import/import-intro)
 
 ## Community Guides
 
