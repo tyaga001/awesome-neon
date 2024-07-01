@@ -23,6 +23,20 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up)
 - [Neon CLI](https://neon.tech/docs/reference/neon-cli)
 
+## Community Guides
+
+- [Build a RAG Chatbot with Astro, Postgres, and LlamaIndex](https://neon.tech/guides/build-a-rag-chatbot-with-astro-postgres-and-llamaindex)
+- [Create a Reverse Image Search Engine Using LlamaIndex and Postgres](https://neon.tech/guides/using-llamaindex-with-postgres-to-build-your-own-reverse-image-search-engine)
+- [Develop an E-commerce Store with Payload CMS, Neon Postgres, and Next.js](https://neon.tech/guides/using-payload-cms-with-neon-postgres-to-build-an-e-commerce-store-in-next-js)
+- [Build a Blog with Strapi CMS, Neon Postgres, and Astro](https://neon.tech/guides/using-strapi-cms-with-neon-postgres-and-astro-to-build-a-blog)
+- [Run Analytics with Umami, Fly.io, and Neon](https://neon.tech/guides/run-your-own-analytics-with-umami-flyio-and-neon)
+- [Revert Failed Deployment and Schema Migration in Laravel](https://neon.tech/guides/reverting-a-failed-deployment-and-schema-migration-in-laravel)
+- [Test Laravel Applications with Neon’s Database Branching](https://neon.tech/guides/testing-laravel-applications-with-neons-database-branching)
+- [Overview of Laravel and Postgres on Neon](https://neon.tech/guides/an-overview-of-laravel-and-postgres-on-neon)
+- [Add Feature Flags in SvelteKit Apps with Neon Postgres](https://neon.tech/guides/add-feature-flags-in-sveltekit-apps-with-neon-postgres)
+- [Upload to S3 in Next.js and Save References in Postgres](https://neon.tech/guides/how-to-upload-to-s3-in-next-js-and-save-references-in-postgres)
+- [Query Postgres in Next.js Server Actions](https://neon.tech/guides/query-postgres-in-next-js-server-actions)
+
 ## Tutorials
 Add links to tutorials here
 
