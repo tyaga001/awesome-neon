@@ -11,7 +11,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Getting Started](#getting-started)
 - [Community Guides](#community-guides)
 - [Blog Posts](#blog-posts)
-- [Tutorials](#tutorials)
+- [Neon YouTube Channel](#neon-youtube-channel)
 - [Tools & Integrations](#tools--integrations)
 - [Sample Projects](#sample-projects)
 - [Community](#community)
@@ -53,8 +53,9 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [What you get when you think of Postgres storage as a transaction journal](https://neon.tech/blog/what-you-get-when-you-think-of-postgres-storage-as-a-transaction-journal)
 
 
-## Tutorials
-Add links to tutorials here
+## Neon YouTube Channel
+
+- [Neon Database YouTube Channel](https://www.youtube.com/@neondatabase)
 
 ## Tools & Integrations
 Add compatible tools and integrations here
