@@ -19,17 +19,21 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Contents
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
+- [Examples](#examples)
+- [Tools](#tools)
 - [Community Guides](#community-guides)
+- [Community Video Tutorials](#community-video-tutorials)
 - [Blog Posts](#blog-posts)
 - [Neon YouTube Channel](#neon-youtube-channel)
-- [Tools & Integrations](#tools--integrations)
-- [Sample Projects](#sample-projects)
 - [Community](#community)
 
 ## Official Resources
 - [Neon DB Website](https://neon.tech)
 - [Official Documentation](https://neon.tech/docs)
 - [GitHub Repository](https://github.com/neondatabase/neon)
+- [Neon Demos](https://neon.tech/demos)
+- [Neon Blog](https://neon.tech/blog)
+- [Neon YouTube Channel](https://www.youtube.com/@neondatabase)
 
 ## Getting Started
 - [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up)
@@ -38,6 +42,14 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Neon Serverless Driver](https://neon.tech/docs/serverless/serverless-driver)
 - [Neon Data Import Guides](https://neon.tech/docs/import/import-intro)
 - [Database Branching Workflows](https://neon.tech/flow)
+
+## Examples
+
+- [Neon Integration Examples and Code Snippets](https://github.com/neondatabase/examples)
+
+## Tools
+
+- [Neon CLI](https://github.com/neondatabase/cli)
 
 ## Community Guides
 
@@ -52,6 +64,20 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Add Feature Flags in SvelteKit Apps with Neon Postgres](https://neon.tech/guides/add-feature-flags-in-sveltekit-apps-with-neon-postgres)
 - [Upload to S3 in Next.js and Save References in Postgres](https://neon.tech/guides/how-to-upload-to-s3-in-next-js-and-save-references-in-postgres)
 - [Query Postgres in Next.js Server Actions](https://neon.tech/guides/query-postgres-in-next-js-server-actions)
+
+## Community Video Tutorials
+
+- [Neon Tech Demo - Getting Started](https://www.youtube.com/watch?v=JtgwiJggOU0)
+- [Neon Database Branching Explained](https://www.youtube.com/watch?v=hFULG1Dx8wo)
+- [Using Neon with Serverless Applications](https://www.youtube.com/watch?v=9pCsyBlpmrc&t=2s)
+- [Introduction to Neon Serverless Driver](https://www.youtube.com/watch?v=_LF-IvJsr5Y)
+- [Setting Up Neon in Your Development Environment](https://www.youtube.com/watch?v=cxgAN7T3rq8)
+- [Advanced Features of Neon Database](https://www.youtube.com/watch?v=XkOXNlHJP6M&t=6125s)
+- [Scaling Neon Databases for Large Applications](https://www.youtube.com/watch?v=jXyTIQOfTTk&t=7838s)
+- [Best Practices for Neon Database Security](https://www.youtube.com/watch?v=W-Bd7nzzz3o&t=426s)
+- [Optimizing Performance with Neon Database](https://www.youtube.com/watch?v=N_uNKAus0II&t=6387s)
+- [Migrating Data to Neon Database](https://www.youtube.com/watch?v=duMr6MTViUY)
+- [Neon Database: Tips and Tricks](https://www.youtube.com/watch?v=T23Dv69j1JU)
 
 ## Blog Posts
 
@@ -69,13 +95,12 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Neon YouTube Channel
 
-- [Neon Database YouTube Channel](https://www.youtube.com/@neondatabase)
-
-## Tools & Integrations
-Add compatible tools and integrations here
-
-## Sample Projects
-Add sample projects demonstrating Neon DB usage here
+- [Neon Introduction](https://www.youtube.com/watch?v=EB0Nu_e9wCs)
+- [Neon Features Overview](https://www.youtube.com/watch?v=I6DCo5RwHBE&t=474s)
+- [Neon Serverless Demo](https://www.youtube.com/watch?v=kvIK2NpuF2I)
+- [Neon CLI Tutorial](https://www.youtube.com/watch?v=i_mAHOhpBSA)
+- [Neon Scaling](https://www.youtube.com/watch?v=atuu5XWkHBI)
+- [Neon Branching Demo](https://www.youtube.com/watch?v=MSdHFUCeQ8g)
 
 ## Community
 - [Neon DB Discord](https://neon.tech/discord)
