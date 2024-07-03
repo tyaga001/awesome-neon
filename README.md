@@ -15,6 +15,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Community Video Tutorials](#community-video-tutorials)
 - [Blog Posts](#blog-posts)
 - [Neon YouTube Channel](#neon-youtube-channel)
+- [Other Interesting Articles](#other-interesting-articles)
 - [Community](#community)
 
 ## Official Resources
@@ -89,6 +90,13 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Neon CLI Tutorial](https://www.youtube.com/watch?v=i_mAHOhpBSA)
 - [Neon Scaling](https://www.youtube.com/watch?v=atuu5XWkHBI)
 - [Neon Branching Demo](https://www.youtube.com/watch?v=MSdHFUCeQ8g)
+
+## Other Interesting Articles
+
+- [How 222 Uses Neon to Handle Their Frequent Spikes in Demand](https://neon.tech/blog/how-222-uses-neon-to-handle-their-frequent-spikes-in-demand)
+- [From Days to Minutes: How Neo Tax Accelerated Their Development Lifecycle](https://neon.tech/blog/from-days-to-minutes-how-neo-tax-accelerated-their-development-lifecycle)
+- [How Retool Uses Retool and the Neon API to Manage 300k Postgres Databases](https://neon.tech/blog/how-retool-uses-retool-and-the-neon-api-to-manage-300k-postgres-databases)
+
 
 ## Community
 - [Neon DB Discord](https://neon.tech/discord)
