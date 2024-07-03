@@ -6,7 +6,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 
 To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## Table of Contents
+## Contents
 
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
