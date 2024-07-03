@@ -11,7 +11,6 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
 - [Examples](#examples)
-- [Tools](#tools)
 - [Community Guides](#community-guides)
 - [Community Video Tutorials](#community-video-tutorials)
 - [Blog Posts](#blog-posts)
@@ -40,9 +39,6 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [Neon Integration Examples and Code Snippets](https://github.com/neondatabase/examples)
 
-## Tools
-
-- [Neon CLI](https://github.com/neondatabase/cli)
 
 ## Community Guides
 
