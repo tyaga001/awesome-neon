@@ -70,14 +70,14 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Blog Posts
 
 - [The Problem with Postgres Replicas](https://neon.tech/blog/the-problem-with-postgres-replicas)
-- [Edit Records Directly from the Neon Console: Meet the New Tables Page](https://neon.tech/blog/edit-records-directly-from-the-neon-console)
+- [Edit Records Directly from the Neon Console: Meet the New Tables Page](https://neon.tech/blog/edit-records-directly-from-the-neon-console-meet-the-new-tables-page)
 - [Database Recovery Strategies to Help You Sleep at Night](https://neon.tech/blog/database-recovery-strategies-to-help-you-sleep-at-night)
-- [A Database for Every Preview Environment Using Neon, GitHub Actions, and Vercel](https://neon.tech/blog/a-database-for-every-preview-environment-using-neon-github-actions-and-vercel)
+- [A Database for Every Preview Environment Using Neon, GitHub Actions, and Vercel](https://neon.tech/blog/branching-with-preview-environments)
 - [How to Create Previews with Anonymized Production-Like Data in Seconds](https://neon.tech/blog/how-to-create-previews-with-anonymized-production-like-data-in-seconds)
 - [Build a Dynamic E-Commerce Store UI with Astro, Neon Postgres, and AWS Amplify](https://neon.tech/blog/build-a-dynamic-e-commerce-store-ui-with-astro-neon-postgres-and-aws-amplify)
 - [Remember to Use Primary Keys vs Unique Constraints in Postgres](https://neon.tech/blog/remember-to-use-primary-keys-vs-unique-constraints-in-postgres)
 - [Database Branching Workflows: A Guide for Developers](https://neon.tech/blog/database-branching-workflows-a-guide-for-developers)
-- [What You Get When You Think of Postgres Storage as a Transaction Journal](https://neon.tech/blog/what-you-get-when-you-think-of-postgres-storage-as-a-transaction-journal)
+
 
 ## Neon YouTube Channel
 
