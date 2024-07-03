@@ -1,4 +1,4 @@
-# Awesome-NeonDB   [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome NeonDB   [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
 [Neon](https://neon.tech) is an awesome database you love. It's a serverless platform designed to help you build reliable and scalable applications faster.
 
