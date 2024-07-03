@@ -108,9 +108,3 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Contributing
 Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this list.
-
-## License
-
-This project is released into the public domain using the [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
-
-To the extent possible under law, the author(s) have dedicated all copyright and related and neighboring rights to this work to the public domain worldwide. This work is distributed without any warranty.
