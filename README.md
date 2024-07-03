@@ -104,6 +104,3 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Community
 - [Neon DB Discord](https://neon.tech/discord)
 - [Neon DB Twitter](https://x.com/neondatabase)
-
-## Contributing
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on how to contribute to this list.
