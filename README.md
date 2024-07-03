@@ -28,7 +28,6 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 ---
 
 ## Official Resources
-- [Neon DB Website](https://neon.tech)
 - [Official Documentation](https://neon.tech/docs)
 - [GitHub Repository](https://github.com/neondatabase/neon)
 - [Neon Demos](https://neon.tech/demos)
