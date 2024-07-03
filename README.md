@@ -7,6 +7,7 @@ This list tries to cover what is awesome about the product and its community! ðŸ
 To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Table of Contents
+
 - [Official Resources](#official-resources)
 - [Getting Started](#getting-started)
 - [Examples](#examples)
@@ -19,6 +20,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Community](#community)
 
 ## Official Resources
+
 - [Official Documentation](https://neon.tech/docs)
 - [GitHub Repository](https://github.com/neondatabase/neon)
 - [Neon Demos](https://neon.tech/demos)
@@ -26,6 +28,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Neon YouTube Channel](https://www.youtube.com/@neondatabase)
 
 ## Getting Started
+
 - [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up)
 - [Neon CLI](https://neon.tech/docs/reference/neon-cli)
 - [Neon API](https://api-docs.neon.tech/reference/getting-started-with-neon-api)
@@ -96,5 +99,6 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [How Retool Uses Retool and the Neon API to Manage 300k Postgres Databases](https://neon.tech/blog/how-retool-uses-retool-and-the-neon-api-to-manage-300k-postgres-databases)
 
 ## Community
+
 - [Neon DB Discord](https://neon.tech/discord)
 - [Neon DB Twitter](https://x.com/neondatabase)
