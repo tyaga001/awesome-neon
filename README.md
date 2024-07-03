@@ -17,7 +17,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Neon YouTube Channel](#neon-youtube-channel)
 - [Community](#community)
 
-## 3 Things to Remember About Neon:
+## 3 Things to Remember About Neon
 
 > 🐘 **Postgres**: Neon is built on the foundation of Postgres. It supports the same extensions, drivers, and SQL syntax as Postgres, ensuring familiarity and ease of use.
 >
