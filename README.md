@@ -14,7 +14,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Community Guides](#community-guides)
 - [Community Video Tutorials](#community-video-tutorials)
 - [Blog Posts](#blog-posts)
-- [Neon YouTube Channel](#neon-youtube-channel)
+- [YouTube Channel](#youtube-channel)
 - [Other Interesting Articles](#other-interesting-articles)
 - [Community](#community)
 
@@ -22,22 +22,22 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [Official Documentation](https://neon.tech/docs): Access comprehensive docs for Neon, including guides, tutorials, and API references.
 - [GitHub Repository](https://github.com/neondatabase/neon): Explore the source code, contribute, and stay updated with the latest developments in Neon's GitHub repository.
-- [Neon Demos](https://neon.tech/demos): Watch demos showcasing Neon's features and capabilities to understand its practical applications.
-- [Neon Blog](https://neon.tech/blog): Read articles on Neon's latest updates, case studies, and best practices for using Neon in various scenarios.
-- [Neon YouTube Channel](https://www.youtube.com/@neondatabase): Watch Neon's YouTube channel for video tutorials, demos, and feature highlights.
+- [Demos](https://neon.tech/demos): Watch demos showcasing Neon's features and capabilities to understand its practical applications.
+- [Blog](https://neon.tech/blog): Read articles on Neon's latest updates, case studies, and best practices for using Neon in various scenarios.
+- [YouTube Channel](https://www.youtube.com/@neondatabase): Watch Neon's YouTube channel for video tutorials, demos, and feature highlights.
 
 ## Getting Started
 
 - [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up)
-- [Neon CLI](https://neon.tech/docs/reference/neon-cli): Learn how to use the Neon CLI for managing your databases and automating workflows.
-- [Neon API](https://api-docs.neon.tech/reference/getting-started-with-neon-api): Explore the Neon API docs to integrate Neon with your applications seamlessly.
-- [Neon Serverless Driver](https://neon.tech/docs/serverless/serverless-driver): Learn how to use the Neon Serverless Driver for efficient, serverless database interactions.
-- [Neon Data Import Guides](https://neon.tech/docs/import/import-intro): Access guides on importing data into Neon databases quickly and efficiently.
+- [CLI](https://neon.tech/docs/reference/neon-cli): Learn how to use the Neon CLI for managing your databases and automating workflows.
+- [API](https://api-docs.neon.tech/reference/getting-started-with-neon-api): Explore the Neon API docs to integrate Neon with your applications seamlessly.
+- [Serverless Driver](https://neon.tech/docs/serverless/serverless-driver): Learn how to use the Neon Serverless Driver for efficient, serverless database interactions.
+- [Data Import Guides](https://neon.tech/docs/import/import-intro): Access guides on importing data into Neon databases quickly and efficiently.
 - [Database Branching Workflows](https://neon.tech/flow): Learn about database branching workflows to improve your development and deployment processes.
 
 ## Examples
 
-- [Neon Integration Examples and Code Snippets](https://github.com/neondatabase/examples): Browse integration examples and code snippets to see how Neon can be used in different projects.
+- [Integration Examples and Code Snippets](https://github.com/neondatabase/examples): Browse integration examples and code snippets to see how Neon can be used in different projects.
 
 
 ## Community Guides
@@ -55,15 +55,15 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Community Video Tutorials
 
-- [Neon Tech Demo - Getting Started](https://www.youtube.com/watch?v=JtgwiJggOU0): Watch this demo to get started with Neon.
-- [Neon Database Branching Explained](https://www.youtube.com/watch?v=hFULG1Dx8wo): Learn about database branching in Neon and how it can benefit your development process.
+- [Tech Demo - Getting Started](https://www.youtube.com/watch?v=JtgwiJggOU0): Watch this demo to get started with Neon.
+- [Database Branching Explained](https://www.youtube.com/watch?v=hFULG1Dx8wo): Learn about database branching in Neon and how it can benefit your development process.
 - [Using Neon with Serverless Applications](https://www.youtube.com/watch?v=9pCsyBlpmrc&t=2s): Learn how to integrate Neon with serverless apps in this detailed tutorial.
-- [Introduction to Neon Serverless Driver](https://www.youtube.com/watch?v=_LF-IvJsr5Y): Get an introduction to the Neon Serverless Driver.
+- [Introduction to Serverless Driver](https://www.youtube.com/watch?v=_LF-IvJsr5Y): Get an introduction to the Neon Serverless Driver.
 - [Setting Up Neon in Your Development Environment](https://www.youtube.com/watch?v=cxgAN7T3rq8): Learn how to set up Neon in your development environment.
-- [Scaling Neon Databases for Large Applications](https://www.youtube.com/watch?v=jXyTIQOfTTk&t=7838s): Learn how to scale Neon databases to support large applications.
-- [Best Practices for Neon Database Security](https://www.youtube.com/watch?v=W-Bd7nzzz3o&t=426s): Learn how to ensure security in your Neon database.
-- [Optimizing Performance with Neon Database](https://www.youtube.com/watch?v=N_uNKAus0II&t=6387s): Learn how to optimize performance with Neon Database.
-- [Migrating Data to Neon Database](https://www.youtube.com/watch?v=duMr6MTViUY): Learn how to migrate data to Neon Database.
+- [Scaling Databases for Large Applications](https://www.youtube.com/watch?v=jXyTIQOfTTk&t=7838s): Learn how to scale Neon databases to support large applications.
+- [Best Practices for Database Security](https://www.youtube.com/watch?v=W-Bd7nzzz3o&t=426s): Learn how to ensure security in your Neon database.
+- [Optimizing Performance with Database](https://www.youtube.com/watch?v=N_uNKAus0II&t=6387s): Learn how to optimize performance with Neon Database.
+- [Migrating Data to Database](https://www.youtube.com/watch?v=duMr6MTViUY): Learn how to migrate data to Neon Database.
 
 ## Blog Posts
 
@@ -79,12 +79,12 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Neon YouTube Channel
 
-- [Neon Introduction](https://www.youtube.com/watch?v=EB0Nu_e9wCs): Get introduced to Neon and learn about its key features and benefits in this comprehensive overview.
-- [Neon Features Overview](https://www.youtube.com/watch?v=I6DCo5RwHBE&t=474s): Explore the various features of Neon in detail and see how they can enhance your database management experience.
-- [Neon Serverless Demo](https://www.youtube.com/watch?v=kvIK2NpuF2I): Watch a live demo of Neon's serverless capabilities and see how it can simplify your database infrastructure.
-- [Neon CLI Tutorial](https://www.youtube.com/watch?v=i_mAHOhpBSA): Learn how to use the Neon CLI with this step-by-step tutorial, designed to help you get the most out of Neon's command-line tools.
-- [Neon Scaling](https://www.youtube.com/watch?v=atuu5XWkHBI): Learn how Neon handles scaling to meet your application's growing demands in this informative video.
-- [Neon Branching Demo](https://www.youtube.com/watch?v=MSdHFUCeQ8g): Watch a practical demonstration of Neon's branching feature and learn how it can streamline your development workflow.
+- [Introduction](https://www.youtube.com/watch?v=EB0Nu_e9wCs): Get introduced to Neon and learn about its key features and benefits in this comprehensive overview.
+- [Features Overview](https://www.youtube.com/watch?v=I6DCo5RwHBE&t=474s): Explore the various features of Neon in detail and see how they can enhance your database management experience.
+- [Serverless Demo](https://www.youtube.com/watch?v=kvIK2NpuF2I): Watch a live demo of Neon's serverless capabilities and see how it can simplify your database infrastructure.
+- [CLI Tutorial](https://www.youtube.com/watch?v=i_mAHOhpBSA): Learn how to use the Neon CLI with this step-by-step tutorial, designed to help you get the most out of Neon's command-line tools.
+- [Scaling](https://www.youtube.com/watch?v=atuu5XWkHBI): Learn how Neon handles scaling to meet your application's growing demands in this informative video.
+- [Branching Demo](https://www.youtube.com/watch?v=MSdHFUCeQ8g): Watch a practical demonstration of Neon's branching feature and learn how it can streamline your development workflow.
 
 ## Other Interesting Articles
 
