@@ -28,7 +28,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Getting Started
 
-- [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up)
+- [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up): Follow this quickstart guide to get started with Neon and set up your account.
 - [CLI](https://neon.tech/docs/reference/neon-cli): Learn how to use the Neon CLI for managing your databases and automating workflows.
 - [API](https://api-docs.neon.tech/reference/getting-started-with-neon-api): Explore the Neon API docs to integrate Neon with your applications seamlessly.
 - [Serverless Driver](https://neon.tech/docs/serverless/serverless-driver): Learn how to use the Neon Serverless Driver for efficient, serverless database interactions.
