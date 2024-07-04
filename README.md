@@ -55,17 +55,15 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Community Video Tutorials
 
-- [Neon Tech Demo - Getting Started](https://www.youtube.com/watch?v=JtgwiJggOU0)
-- [Neon Database Branching Explained](https://www.youtube.com/watch?v=hFULG1Dx8wo)
-- [Using Neon with Serverless Applications](https://www.youtube.com/watch?v=9pCsyBlpmrc&t=2s)
-- [Introduction to Neon Serverless Driver](https://www.youtube.com/watch?v=_LF-IvJsr5Y)
-- [Setting Up Neon in Your Development Environment](https://www.youtube.com/watch?v=cxgAN7T3rq8)
-- [Advanced Features of Neon Database](https://www.youtube.com/watch?v=XkOXNlHJP6M&t=6125s)
-- [Scaling Neon Databases for Large Applications](https://www.youtube.com/watch?v=jXyTIQOfTTk&t=7838s)
-- [Best Practices for Neon Database Security](https://www.youtube.com/watch?v=W-Bd7nzzz3o&t=426s)
-- [Optimizing Performance with Neon Database](https://www.youtube.com/watch?v=N_uNKAus0II&t=6387s)
-- [Migrating Data to Neon Database](https://www.youtube.com/watch?v=duMr6MTViUY)
-- [Neon Database: Tips and Tricks](https://www.youtube.com/watch?v=T23Dv69j1JU)
+- [Neon Tech Demo - Getting Started](https://www.youtube.com/watch?v=JtgwiJggOU0): Watch this demo to get started with Neon.
+- [Neon Database Branching Explained](https://www.youtube.com/watch?v=hFULG1Dx8wo): Learn about database branching in Neon and how it can benefit your development process.
+- [Using Neon with Serverless Applications](https://www.youtube.com/watch?v=9pCsyBlpmrc&t=2s): Learn how to integrate Neon with serverless apps in this detailed tutorial.
+- [Introduction to Neon Serverless Driver](https://www.youtube.com/watch?v=_LF-IvJsr5Y): Get an introduction to the Neon Serverless Driver.
+- [Setting Up Neon in Your Development Environment](https://www.youtube.com/watch?v=cxgAN7T3rq8): Learn how to set up Neon in your development environment.
+- [Scaling Neon Databases for Large Applications](https://www.youtube.com/watch?v=jXyTIQOfTTk&t=7838s): Learn how to scale Neon databases to support large applications.
+- [Best Practices for Neon Database Security](https://www.youtube.com/watch?v=W-Bd7nzzz3o&t=426s): Learn how to ensure security in your Neon database.
+- [Optimizing Performance with Neon Database](https://www.youtube.com/watch?v=N_uNKAus0II&t=6387s): Learn how to optimize performance with Neon Database.
+- [Migrating Data to Neon Database](https://www.youtube.com/watch?v=duMr6MTViUY): Learn how to migrate data to Neon Database.
 
 ## Blog Posts
 
