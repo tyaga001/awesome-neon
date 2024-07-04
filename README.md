@@ -16,7 +16,6 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Blog Posts](#blog-posts)
 - [YouTube Channel](#youtube-channel)
 - [Other Interesting Articles](#other-interesting-articles)
-- [Community](#community)
 
 ## Official Resources
 
