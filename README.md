@@ -81,12 +81,12 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Neon YouTube Channel
 
-- [Neon Introduction](https://www.youtube.com/watch?v=EB0Nu_e9wCs)
-- [Neon Features Overview](https://www.youtube.com/watch?v=I6DCo5RwHBE&t=474s)
-- [Neon Serverless Demo](https://www.youtube.com/watch?v=kvIK2NpuF2I)
-- [Neon CLI Tutorial](https://www.youtube.com/watch?v=i_mAHOhpBSA)
-- [Neon Scaling](https://www.youtube.com/watch?v=atuu5XWkHBI)
-- [Neon Branching Demo](https://www.youtube.com/watch?v=MSdHFUCeQ8g)
+- [Neon Introduction](https://www.youtube.com/watch?v=EB0Nu_e9wCs): Get introduced to Neon and learn about its key features and benefits in this comprehensive overview.
+- [Neon Features Overview](https://www.youtube.com/watch?v=I6DCo5RwHBE&t=474s): Explore the various features of Neon in detail and see how they can enhance your database management experience.
+- [Neon Serverless Demo](https://www.youtube.com/watch?v=kvIK2NpuF2I): Watch a live demo of Neon's serverless capabilities and see how it can simplify your database infrastructure.
+- [Neon CLI Tutorial](https://www.youtube.com/watch?v=i_mAHOhpBSA): Learn how to use the Neon CLI with this step-by-step tutorial, designed to help you get the most out of Neon's command-line tools.
+- [Neon Scaling](https://www.youtube.com/watch?v=atuu5XWkHBI): Learn how Neon handles scaling to meet your application's growing demands in this informative video.
+- [Neon Branching Demo](https://www.youtube.com/watch?v=MSdHFUCeQ8g): Watch a practical demonstration of Neon's branching feature and learn how it can streamline your development workflow.
 
 ## Other Interesting Articles
 
@@ -96,8 +96,3 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [How 222 Uses Neon to Handle Their Frequent Spikes in Demand](https://neon.tech/blog/how-222-uses-neon-to-handle-their-frequent-spikes-in-demand): Learn how 222 leverages Neon’s scalable database solutions to manage frequent demand spikes, ensuring stability and performance during high-traffic periods.
 - [From Days to Minutes: How Neo Tax Accelerated Their Development Lifecycle](https://neon.tech/blog/from-days-to-minutes-how-neo-tax-accelerated-their-development-lifecycle): Learn how Neo.Tax reduced their development time from days to minutes using Neon’s advanced features, boosting efficiency and productivity.
 - [How Retool Uses Retool and the Neon API to Manage 300k Postgres Databases](https://neon.tech/blog/how-retool-uses-retool-and-the-neon-api-to-manage-300k-postgres-databases): Learn how Retool integrates with the Neon API to manage over 300,000 Postgres databases, streamlining operations and enhancing performance.
-
-## Community
-
-- [Neon DB Discord](https://neon.tech/discord)
-- [Neon DB Twitter](https://x.com/neondatabase)
