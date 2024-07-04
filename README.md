@@ -69,14 +69,14 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Blog Posts
 
-- [The Problem with Postgres Replicas](https://neon.tech/blog/the-problem-with-postgres-replicas)
-- [Edit Records Directly from the Neon Console: Meet the New Tables Page](https://neon.tech/blog/edit-records-directly-from-the-neon-console-meet-the-new-tables-page)
-- [Database Recovery Strategies to Help You Sleep at Night](https://neon.tech/blog/database-recovery-strategies-to-help-you-sleep-at-night)
-- [A Database for Every Preview Environment Using Neon, GitHub Actions, and Vercel](https://neon.tech/blog/branching-with-preview-environments)
-- [How to Create Previews with Anonymized Production-Like Data in Seconds](https://neon.tech/blog/how-to-create-previews-with-anonymized-production-like-data-in-seconds)
-- [Build a Dynamic E-Commerce Store UI with Astro, Neon Postgres, and AWS Amplify](https://neon.tech/blog/build-a-dynamic-e-commerce-store-ui-with-astro-neon-postgres-and-aws-amplify)
-- [Remember to Use Primary Keys vs Unique Constraints in Postgres](https://neon.tech/blog/remember-to-use-primary-keys-vs-unique-constraints-in-postgres)
-- [Database Branching Workflows: A Guide for Developers](https://neon.tech/blog/database-branching-workflows-a-guide-for-developers)
+- [The Problem with Postgres Replicas](https://neon.tech/blog/the-problem-with-postgres-replicas): Blog post by Bryan Clark on the challenges associated with using Postgres replicas and explore potential solutions to overcome these issues.
+- [Edit Records Directly from the Neon Console: Meet the New Tables Page](https://neon.tech/blog/edit-records-directly-from-the-neon-console-meet-the-new-tables-page): Learn about Neon's new Tables page feature that allows you to edit records directly from the console, simplifying database management.
+- [Database Recovery Strategies to Help You Sleep at Night](https://neon.tech/blog/database-recovery-strategies-to-help-you-sleep-at-night): Learn about essential database recovery strategies that ensure data safety and provide peace of mind.
+- [A Database for Every Preview Environment Using Neon, GitHub Actions, and Vercel](https://neon.tech/blog/branching-with-preview-environments): Blog post on how to set up a database for every preview environment using Neon, GitHub Actions, and Vercel to streamline your development process.
+- [How to Create Previews with Anonymized Production-Like Data in Seconds](https://neon.tech/blog/how-to-create-previews-with-anonymized-production-like-data-in-seconds): Learn to create previews with anonymized, production-like data quickly, enhancing testing and development workflows.
+- [Build a Dynamic E-Commerce Store UI with Astro, Neon Postgres, and AWS Amplify](https://neon.tech/blog/build-a-dynamic-e-commerce-store-ui-with-astro-neon-postgres-and-aws-amplify): Blog post on How to build a dynamic e-commerce store UI using Astro, Neon Postgres, and AWS Amplify for a seamless user experience.
+- [Remember to Use Primary Keys vs Unique Constraints in Postgres](https://neon.tech/blog/remember-to-use-primary-keys-vs-unique-constraints-in-postgres): Understand the differences between primary keys and unique constraints in Postgres and when to use each.
+- [Database Branching Workflows: A Guide for Developers](https://neon.tech/blog/database-branching-workflows-a-guide-for-developers): Blog post on database branching workflows for developers, enhancing collaboration and version control.
 
 
 ## Neon YouTube Channel
