@@ -37,21 +37,21 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Examples
 
-- [Neon Integration Examples and Code Snippets](https://github.com/neondatabase/examples)
+- [Neon Integration Examples and Code Snippets](https://github.com/neondatabase/examples): Browse integration examples and code snippets to see how Neon can be used in different projects.
 
 
 ## Community Guides
 
-- [Build a RAG Chatbot with Astro, Postgres, and LlamaIndex](https://neon.tech/guides/chatbot-astro-postgres-llamaindex)
-- [Create a Reverse Image Search Engine Using LlamaIndex and Postgres](https://neon.tech/guides/llamaindex-postgres-search-images)
-- [Develop an E-commerce Store with Payload CMS, Neon Postgres, and Next.js](https://neon.tech/guides/payload)
-- [Build a Blog with Strapi CMS, Neon Postgres, and Astro](https://neon.tech/guides/strapi-cms)
-- [Run Analytics with Umami, Fly.io, and Neon](https://neon.tech/guides/self-hosting-umami-neon)
-- [Revert Failed Deployment and Schema Migration in Laravel](https://neon.tech/guides/laravel-migration-rollbacks)
-- [Overview of Laravel and Postgres on Neon](https://neon.tech/guides/laravel-overview)
-- [Add Feature Flags in SvelteKit Apps with Neon Postgres](https://neon.tech/guides/feature-flags-sveltekit)
-- [Upload to S3 in Next.js and Save References in Postgres](https://neon.tech/guides/next-upload-aws-s3)
-- [Query Postgres in Next.js Server Actions](https://neon.tech/guides/next-server-actions)
+- [Build a RAG Chatbot with Astro, Postgres, and LlamaIndex](https://neon.tech/guides/chatbot-astro-postgres-llamaindex): Learn how to build a RAG chatbot using Astro, Postgres, and LlamaIndex with this comprehensive guide.
+- [Create a Reverse Image Search Engine Using LlamaIndex and Postgres](https://neon.tech/guides/llamaindex-postgres-search-images): Learn to develop a reverse image search engine with LlamaIndex and Postgres by following this guide.
+- [Develop an E-commerce Store with Payload CMS, Neon Postgres, and Next.js](https://neon.tech/guides/payload): Learn to build a full-featured e-commerce store using Payload CMS, Neon Postgres, and Next.js.
+- [Build a Blog with Strapi CMS, Neon Postgres, and Astro](https://neon.tech/guides/strapi-cms): Learn how to create a blog with Strapi CMS, Neon Postgres, and Astro.
+- [Run Analytics with Umami, Fly.io, and Neon](https://neon.tech/guides/self-hosting-umami-neon): Learn how to set up an analytics platform using Umami, Fly.io, and Neon.
+- [Revert Failed Deployment and Schema Migration in Laravel](https://neon.tech/guides/laravel-migration-rollbacks): Learn how to handle deployment and schema migration rollbacks in Laravel with Neon.
+- [Overview of Laravel and Postgres on Neon](https://neon.tech/guides/laravel-overview): Get an overview of using Laravel with Postgres on Neon.
+- [Add Feature Flags in SvelteKit Apps with Neon Postgres](https://neon.tech/guides/feature-flags-sveltekit): Learn how to implement feature flags in SvelteKit applications using Neon Postgres.
+- [Upload to S3 in Next.js and Save References in Postgres](https://neon.tech/guides/next-upload-aws-s3): Learn how to upload files to S3 in a Next.js app and save references in Postgres.
+- [Query Postgres in Next.js Server Actions](https://neon.tech/guides/next-server-actions): Learn how to query Postgres in Next.js server actions with this guide.
 
 ## Community Video Tutorials
 
