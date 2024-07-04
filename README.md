@@ -90,9 +90,12 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Other Interesting Articles
 
-- [How 222 Uses Neon to Handle Their Frequent Spikes in Demand](https://neon.tech/blog/how-222-uses-neon-to-handle-their-frequent-spikes-in-demand)
-- [From Days to Minutes: How Neo Tax Accelerated Their Development Lifecycle](https://neon.tech/blog/from-days-to-minutes-how-neo-tax-accelerated-their-development-lifecycle)
-- [How Retool Uses Retool and the Neon API to Manage 300k Postgres Databases](https://neon.tech/blog/how-retool-uses-retool-and-the-neon-api-to-manage-300k-postgres-databases)
+- [SELECT 'Hello, World'](https://neon.tech/blog/hello-world/): Blog post by Nikita Shamgunov on the high level architecture
+- [Architecture decisions in Neon](https://neon.tech/blog/architecture-decisions-in-neon/): Blog post by Heikki Linnakangas
+- [Neon: Serverless PostgreSQL!](https://www.youtube.com/watch?v=rES0yzeERns): Presentation on storage system by Heikki Linnakangas in the CMU Database Group seminar series
+- [How 222 Uses Neon to Handle Their Frequent Spikes in Demand](https://neon.tech/blog/how-222-uses-neon-to-handle-their-frequent-spikes-in-demand): Learn how 222 leverages Neon’s scalable database solutions to manage frequent demand spikes, ensuring stability and performance during high-traffic periods.
+- [From Days to Minutes: How Neo Tax Accelerated Their Development Lifecycle](https://neon.tech/blog/from-days-to-minutes-how-neo-tax-accelerated-their-development-lifecycle): Learn how Neo.Tax reduced their development time from days to minutes using Neon’s advanced features, boosting efficiency and productivity.
+- [How Retool Uses Retool and the Neon API to Manage 300k Postgres Databases](https://neon.tech/blog/how-retool-uses-retool-and-the-neon-api-to-manage-300k-postgres-databases): Learn how Retool integrates with the Neon API to manage over 300,000 Postgres databases, streamlining operations and enhancing performance.
 
 ## Community
 
