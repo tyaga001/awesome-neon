@@ -77,7 +77,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Database Branching Workflows: A Guide for Developers](https://neon.tech/blog/database-branching-workflows-a-guide-for-developers): Blog post on database branching workflows for developers, enhancing collaboration and version control.
 
 
-## Neon YouTube Channel
+## YouTube Channel
 
 - [Introduction](https://www.youtube.com/watch?v=EB0Nu_e9wCs): Get introduced to Neon and learn about its key features and benefits in this comprehensive overview.
 - [Features Overview](https://www.youtube.com/watch?v=I6DCo5RwHBE&t=474s): Explore the various features of Neon in detail and see how they can enhance your database management experience.
