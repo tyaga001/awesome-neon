@@ -20,11 +20,11 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Official Resources
 
-- [Official Documentation](https://neon.tech/docs)
-- [GitHub Repository](https://github.com/neondatabase/neon)
-- [Neon Demos](https://neon.tech/demos)
-- [Neon Blog](https://neon.tech/blog)
-- [Neon YouTube Channel](https://www.youtube.com/@neondatabase)
+- [Official Documentation](https://neon.tech/docs): Access comprehensive docs for Neon, including guides, tutorials, and API references.
+- [GitHub Repository](https://github.com/neondatabase/neon): Explore the source code, contribute, and stay updated with the latest developments in Neon's GitHub repository.
+- [Neon Demos](https://neon.tech/demos): Watch demos showcasing Neon's features and capabilities to understand its practical applications.
+- [Neon Blog](https://neon.tech/blog): Read articles on Neon's latest updates, case studies, and best practices for using Neon in various scenarios.
+- [Neon YouTube Channel](https://www.youtube.com/@neondatabase): Watch Neon's YouTube channel for video tutorials, demos, and feature highlights.
 
 ## Getting Started
 
