@@ -74,7 +74,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Build a Dynamic E-Commerce Store UI with Astro, Neon Postgres, and AWS Amplify](https://neon.tech/blog/build-a-dynamic-e-commerce-store-ui-with-astro-neon-postgres-and-aws-amplify) - Blog post on How to build a dynamic e-commerce store UI using Astro, Neon Postgres, and AWS Amplify for a seamless user experience.
 - [Remember to Use Primary Keys vs Unique Constraints in Postgres](https://neon.tech/blog/remember-to-use-primary-keys-vs-unique-constraints-in-postgres) - Understand the differences between primary keys and unique constraints in Postgres and when to use each.
 - [Database Branching Workflows: A Guide for Developers](https://neon.tech/blog/database-branching-workflows-a-guide-for-developers) - Blog post on database branching workflows for developers, enhancing collaboration and version control.
-- [Full Stack Development with Next.js, Clerk, and Neon Postgres](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/)- Tutorial on building a full-stack application using Next.js, Clerk for authentication, and Neon Postgres for the database.
+- [Full Stack Development with Next.js, Clerk, and Neon Postgres](https://www.freecodecamp.org/news/nextjs-clerk-neon-fullstack-development/) - Tutorial on building a full-stack application using Next.js, Clerk for authentication, and Neon Postgres for the database.
 
 
 ## YouTube Channel
