@@ -63,9 +63,9 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 - [Best Practices for Database Security](https://www.youtube.com/watch?v=W-Bd7nzzz3o&t=426s) - Learn how to ensure security in your Neon database.
 - [Optimizing Performance with Database](https://www.youtube.com/watch?v=N_uNKAus0II&t=6387s) - Learn how to optimize performance with Neon Database.
 - [Migrating Data to Database](https://www.youtube.com/watch?v=duMr6MTViUY) - Learn how to migrate data to Neon Database.
-- [Python Tutorial: Build a SaaS App with Django, Stripe, Neon PostgreSQL, TailwindCSS, GitHub Actions](https://youtu.be/N_uNKAus0II?si=zxYBWZJWEK6Eouui) - Learn how to build a SaaS application using Django, integrating Stripe for payments, Neon PostgreSQL for database, TailwindCSS for styling, and GitHub Actions for CI/CD.
-- [Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)](https://youtu.be/WbNNESIxJnY?si=3GOWTFFHWX77cUTF) - Tutorial on creating an AI-powered SaaS with recurring revenue, using Next.js, OpenAI, Stripe for payments, TailwindCSS, and deploying on Vercel.
-- [Build a Finance SaaS Platform With Nextjs, React, Honojs with CSV Upload (2024)](https://youtu.be/r895rFUbGtE?si=CLh-cFry8UXl6uas) - Guide to building a finance SaaS platform using Next.js, React, and Hono.js, featuring CSV upload functionality.
+- [Python Tutorial: Build a SaaS App with Django, Stripe, Neon PostgreSQL, TailwindCSS, GitHub Actions](https://youtu.be/WbNNESIxJnY?si=Bv69eeyRvfKnuS45) - Learn how to build a SaaS application using Django, integrating Stripe for payments, Neon PostgreSQL for database, TailwindCSS for styling, and GitHub Actions for CI/CD.
+- [Build & Deploy AI SaaS with Reoccurring Revenue (Next.js, OpenAI, Stripe, Tailwind, Vercel)](https://youtu.be/r895rFUbGtE?si=M_K9YSN36LV7Ft0a) - Tutorial on creating an AI-powered SaaS with recurring revenue, using Next.js, OpenAI, Stripe for payments, TailwindCSS, and deploying on Vercel.
+- [Build a Finance SaaS Platform With Nextjs, React, Honojs with CSV Upload (2024)](https://youtu.be/N_uNKAus0II?si=F1fZTyomXU4c9YMD) - Guide to building a finance SaaS platform using Next.js, React, and Hono.js, featuring CSV upload functionality.
 
 ## Blog Posts
 
