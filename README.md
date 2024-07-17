@@ -1,6 +1,6 @@
-# Awesome NeonDB   [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+# Awesome Neon Postgres Database  [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-[Neon](https://neon.tech) is an awesome serverless Postgres database, open-source alternative to AWS Aurora you love. It's a serverless platform designed to help you build reliable and scalable applications faster.
+[Neon Postgres Database](https://neon.tech) is an awesome serverless Postgres database, open-source alternative to AWS Aurora you love. It's a serverless platform designed to help you build reliable and scalable applications faster.
 
 This list tries to cover what is awesome about the product and its community! 👁⚡️👁
 
