@@ -41,7 +41,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Community Guides
 
-- [Build a RAG Chatbot with Astro, Postgres, and LlamaIndex](https://neon.tech/guides/chatbot-astro-postgres-llamaindex) - Learn how to build a RAG chatbot using Astro, Postgres, and LlamaIndex with this comprehensive guide.
+- [Build a RAG Chatbot with Astro, Neon Postgres Database, and LlamaIndex](https://neon.tech/guides/chatbot-astro-postgres-llamaindex) - Learn how to build a RAG chatbot using Astro, Neon Postgres Database, and LlamaIndex with this comprehensive guide.
 - [Create a Reverse Image Search Engine Using LlamaIndex and Postgres](https://neon.tech/guides/llamaindex-postgres-search-images) - Learn to develop a reverse image search engine with LlamaIndex and Postgres by following this guide.
 - [Develop an E-commerce Store with Payload CMS, Neon Postgres Database, and Next.js](https://neon.tech/guides/payload) - Learn to build a full-featured e-commerce store using Payload CMS, Neon Postgres Database, and Next.js.
 - [Build a Blog with Strapi CMS, Neon Postgres Database, and Astro](https://neon.tech/guides/strapi-cms) - Learn how to create a blog with Strapi CMS, Neon Postgres Database, and Astro.
