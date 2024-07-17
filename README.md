@@ -36,7 +36,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Examples
 
-- [Integration Examples and Code Snippets](https://github.com/neondatabase/examples) - Browse examples and code snippets to see how Neon can be used in different projects.
+- [Integration Examples and Code Snippets](https://github.com/neondatabase/examples) - Browse examples and code snippets to see how Neon Postgres Database can be used in different projects.
 
 
 ## Community Guides
