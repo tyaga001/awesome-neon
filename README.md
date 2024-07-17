@@ -27,11 +27,11 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Getting Started
 
-- [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up) - Follow this quickstart guide to get started with Neon and set up your account.
-- [CLI](https://neon.tech/docs/reference/neon-cli) - Learn how to use the Neon CLI for managing your databases and automating workflows.
-- [API](https://api-docs.neon.tech/reference/getting-started-with-neon-api) - Explore the Neon API docs to integrate Neon with your applications seamlessly.
-- [Serverless Driver](https://neon.tech/docs/serverless/serverless-driver) - Learn how to use the Neon Serverless Driver for efficient, serverless database interactions.
-- [Data Import Guides](https://neon.tech/docs/import/import-intro) - Access guides on importing data into Neon databases quickly and efficiently.
+- [Quickstart Guide](https://neon.tech/docs/get-started-with-neon/signing-up) - Follow this quickstart guide to get started with Neon Postgres Database and set up your account.
+- [CLI](https://neon.tech/docs/reference/neon-cli) - Learn how to use the Neon Postgres Database CLI for managing your databases and automating workflows.
+- [API](https://api-docs.neon.tech/reference/getting-started-with-neon-api) - Explore the Neon Postgres Database API docs to integrate Neon Postgres Database with your applications seamlessly.
+- [Serverless Driver](https://neon.tech/docs/serverless/serverless-driver) - Learn how to use the Neon Postgres Database Serverless Driver for efficient, serverless database interactions.
+- [Data Import Guides](https://neon.tech/docs/import/import-intro) - Access guides on importing data into Neon Postgres Database quickly and efficiently.
 - [Database Branching Workflows](https://neon.tech/flow) - Learn about database branching workflows to improve your development and deployment processes.
 
 ## Examples
