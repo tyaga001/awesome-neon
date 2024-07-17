@@ -43,7 +43,7 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 - [Build a RAG Chatbot with Astro, Postgres, and LlamaIndex](https://neon.tech/guides/chatbot-astro-postgres-llamaindex) - Learn how to build a RAG chatbot using Astro, Postgres, and LlamaIndex with this comprehensive guide.
 - [Create a Reverse Image Search Engine Using LlamaIndex and Postgres](https://neon.tech/guides/llamaindex-postgres-search-images) - Learn to develop a reverse image search engine with LlamaIndex and Postgres by following this guide.
-- [Develop an E-commerce Store with Payload CMS, Neon Postgres, and Next.js](https://neon.tech/guides/payload) - Learn to build a full-featured e-commerce store using Payload CMS, Neon Postgres Database, and Next.js.
+- [Develop an E-commerce Store with Payload CMS, Neon Postgres Database, and Next.js](https://neon.tech/guides/payload) - Learn to build a full-featured e-commerce store using Payload CMS, Neon Postgres Database, and Next.js.
 - [Build a Blog with Strapi CMS, Neon Postgres, and Astro](https://neon.tech/guides/strapi-cms) - Learn how to create a blog with Strapi CMS, Neon Postgres Database, and Astro.
 - [Run Analytics with Umami, Fly.io, and Neon](https://neon.tech/guides/self-hosting-umami-neon) - Learn how to set up an analytics platform using Umami, Fly.io, and Neon Postgres Database.
 - [Revert Failed Deployment and Schema Migration in Laravel](https://neon.tech/guides/laravel-migration-rollbacks) - Learn how to handle deployment and schema migration rollbacks in Laravel with Neon Postgres Database.
