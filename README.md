@@ -19,11 +19,11 @@ To **enhance** this list, please refer to [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ## Official Resources
 
-- [Official Documentation](https://neon.tech/docs) - Access comprehensive docs for Neon, including guides, tutorials, and API references.
-- [GitHub Repository](https://github.com/neondatabase/neon) - Explore the source code, contribute, and stay updated with the latest developments in Neon's GitHub repository.
-- [Demos](https://neon.tech/demos) - Watch demos showcasing Neon's features and capabilities to understand its practical applications.
-- [Blog](https://neon.tech/blog) - Read articles on Neon's latest updates, case studies, and best practices for using Neon in various scenarios.
-- [YouTube Channel](https://www.youtube.com/@neondatabase) - Watch Neon's YouTube channel for video tutorials, demos, and feature highlights.
+- [Official Documentation](https://neon.tech/docs) - Access comprehensive docs for Neon Postgres Database, including guides, tutorials, and API references.
+- [GitHub Repository](https://github.com/neondatabase/neon) - Explore the source code, contribute, and stay updated with the latest developments in Neon Postgres Database GitHub repository.
+- [Demos](https://neon.tech/demos) - Watch demos showcasing Neon Postgres Database features and capabilities to understand its practical applications.
+- [Blog](https://neon.tech/blog) - Read articles on Neon Postgres Database latest updates, case studies, and best practices for using Neon Postgres Database in various scenarios.
+- [YouTube Channel](https://www.youtube.com/@neondatabase) - Watch Neon Postgres Database YouTube channel for video tutorials, demos, and feature highlights.
 
 ## Getting Started
 
